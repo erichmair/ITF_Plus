@@ -2,12 +2,12 @@
 
 | # | Subdomains   | 
 |---|---|
-|3.1 | [Explain the purpose of operating systems.](https://github.com/erich-tech/ITF_Plus/edit/main/Domain_3-Applications_and_Software/3.1#readme) |
-|3.2 | [Compare and contrast components of an operating system.](https://github.com/erich-tech/ITF_Plus/edit/main/Domain_3-Applications_and_Software/3.2#readme) |
-|3.3 | [Explain the purpose and proper use of software.](https://github.com/erich-tech/ITF_Plus/edit/main/Domain_3-Applications_and_Software/3.3#readme) |
-|3.4 | [Explain methods of application architecture and delivery models.](https://github.com/erich-tech/ITF_Plus/edit/main/Domain_3-Applications_and_Software/3.4#readme) |
-|3.5 | [Given a scenario, configure and use web browsers.](https://github.com/erich-tech/ITF_Plus/edit/main/Domain_3-Applications_and_Software/3.5#readme) |
-|3.6 | [Compare and contrast general application concepts and uses.](https://github.com/erich-tech/ITF_Plus/edit/main/Domain_3-Applications_and_Software/3.6#readme) |
+|3.1 | [Explain the purpose of operating systems.](https://github.com/erich-tech/ITF_Plus/blob/main/Domain_3-Applications_and_Software/README.md#31-explain-the-purpose-of-operating-systems) |
+|3.2 | [Compare and contrast components of an operating system.](https://github.com/erich-tech/ITF_Plus/blob/main/Domain_3-Applications_and_Software/README.md#32-compare-and-contrast-components-of-an-operating-system) |
+|3.3 | [Explain the purpose and proper use of software.](https://github.com/erich-tech/ITF_Plus/blob/main/Domain_3-Applications_and_Software/README.md#33-explain-the-purpose-and-proper-use-of-software) |
+|3.4 | [Explain methods of application architecture and delivery models.](https://github.com/erich-tech/ITF_Plus/blob/main/Domain_3-Applications_and_Software/README.md#34-explain-methods-of-application-architecture-and-delivery-models) |
+|3.5 | [Given a scenario, configure and use web browsers.](https://github.com/erich-tech/ITF_Plus/blob/main/Domain_3-Applications_and_Software/README.md#35-given-a-scenario-configure-and-use-web-browsers) |
+|3.6 | [Compare and contrast general application concepts and uses.](https://github.com/erich-tech/ITF_Plus/blob/main/Domain_3-Applications_and_Software/README.md#36-compare-and-contrast-general-application-concepts-and-uses) |
 
 
 

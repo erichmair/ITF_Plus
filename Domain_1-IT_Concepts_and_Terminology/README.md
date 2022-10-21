@@ -2,7 +2,7 @@
 
 | # | Subdomains   | 
 |---|---|
-|1.1 | [Compare and contrast notational systems.](https://github.com/erich-tech/ITF_Plus/edit/main/Domain_1-IT_Concepts_and_Terminology#1) |
+|1.1 | [Compare and contrast notational systems.](https://github.com/erich-tech/ITF_Plus/tree/main/Domain_1-IT_Concepts_and_Terminology#11-compare-and-contrast-notational-systems) |
 |1.2 | [Compare and contrast fundamental data types and their characteristics.](https://github.com/erich-tech/ITF_Plus/edit/main/Domain_1-IT_Concepts_and_Terminology/1.2#readme) |
 |1.3 | [Illustrate the basics of computing and processing.](https://github.com/erich-tech/ITF_Plus/edit/main/Domain_1-IT_Concepts_and_Terminology/1.3#readme) |
 |1.4 | [Explain the value of data and information.](https://github.com/erich-tech/ITF_Plus/edit/main/Domain_1-IT_Concepts_and_Terminology/1.4#readme) |
@@ -14,7 +14,7 @@
 ```
 NOTE: Work in progress. Please come back again soon! 
 ```
-## 1.1 Compare and contrast notational systems<a id='1'></a>
+## 1.1 Compare and contrast notational systems
 * Binary - 
 * Hexadecimal - 
 * Decimal - 

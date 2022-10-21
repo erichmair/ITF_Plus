@@ -14,7 +14,7 @@
 ```
 NOTE: Work in progress. Please come back again soon! 
 ```
-## [1.1 Compare and contrast notational systems](#1)
+## 1.1 Compare and contrast notational systems [#1]
 * Binary - 
 * Hexadecimal - 
 * Decimal - 

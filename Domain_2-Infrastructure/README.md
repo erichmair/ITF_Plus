@@ -2,14 +2,14 @@
 
 | # | Subdomains   | 
 |---|---|
-|2.1 | [Classify common types of input/output device interfaces.](https://github.com/erich-tech/ITF_Plus/edit/main/Domain_2-Infrastructure/2.1#readme) |
-|2.2 | [Given a scenario, set up and install common peripheral devices to a laptop/PC.](https://github.com/erich-tech/ITF_Plus/edit/main/Domain_2-Infrastructure/2.2#readme) |
-|2.3 | [Explain the purpose of common internal computing components.](https://github.com/erich-tech/ITF_Plus/edit/main/Domain_2-Infrastructure/2.3#readme) |
-|2.4 | [Compare and contrast common Internet service types.](https://github.com/erich-tech/ITF_Plus/edit/main/Domain_2-Infrastructure/2.4#readme) |
-|2.5 | [Compare and contrast storage types.](https://github.com/erich-tech/ITF_Plus/edit/main/Domain_2-Infrastructure/2.5#readme) |
-|2.6 | [Explain hardware assurance best practices.](https://github.com/erich-tech/ITF_Plus/edit/main/Domain_2-Infrastructure/2.6#readme) |
-|2.7 | [Explain basic networking concepts.](https://github.com/erich-tech/ITF_Plus/edit/main/Domain_2-Infrastructure/2.7#readme) |
-|2.8 | [Given a scenario, install, configure and secure a basic wireless network.](https://github.com/erich-tech/ITF_Plus/edit/main/Domain_2-Infrastructure/2.8#readme) |
+|2.1 | [Classify common types of input/output device interfaces.](https://github.com/erich-tech/ITF_Plus/tree/main/Domain_2-Infrastructure#21-classify-common-types-of-inputoutput-device-interfaces) |
+|2.2 | [Given a scenario, set up and install common peripheral devices to a laptop/PC.](https://github.com/erich-tech/ITF_Plus/tree/main/Domain_2-Infrastructure#22-given-a-scenario-set-up-and-install-common-peripheral-devices-to-a-laptoppc) |
+|2.3 | [Explain the purpose of common internal computing components.](https://github.com/erich-tech/ITF_Plus/tree/main/Domain_2-Infrastructure#23-explain-the-purpose-of-common-internal-computing-components) |
+|2.4 | [Compare and contrast common Internet service types.](https://github.com/erich-tech/ITF_Plus/tree/main/Domain_2-Infrastructure#24-compare-and-contrast-common-internet-service-types) |
+|2.5 | [Compare and contrast storage types.](https://github.com/erich-tech/ITF_Plus/tree/main/Domain_2-Infrastructure#25-compare-and-contrast-storage-types) |
+|2.6 | [Explain hardware assurance best practices.](https://github.com/erich-tech/ITF_Plus/tree/main/Domain_2-Infrastructure#26-explain-hardware-assurance-best-practices) |
+|2.7 | [Explain basic networking concepts.](https://github.com/erich-tech/ITF_Plus/tree/main/Domain_2-Infrastructure#27-explain-basic-networking-concepts) |
+|2.8 | [Given a scenario, install, configure and secure a basic wireless network.](https://github.com/erich-tech/ITF_Plus/tree/main/Domain_2-Infrastructure#28-given-a-scenario-install-configure-and-secure-a-basic-wireless-network) |
 
 
 ```

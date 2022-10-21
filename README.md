@@ -12,9 +12,9 @@ The exam covers 5 domains:
 | # | Domain   | Percentage|
 |---|---|---|
 |1.0 | [IT Concepts and Terminology](https://github.com/erich-tech/ITF_Plus/tree/main/Domain_1-IT_Concepts_and_Terminology#readme) | 17%|
-|2.0 | [Information Gathering and Vulnerability Scanning](https://github.com/erich-tech/ITF_Plus/tree/main/Domain_2-Infrastructure#readme) | 22%|
-|3.0 | [Attacks and Exploits](https://github.com/erich-tech/ITF_Plus/tree/main/Domain_3-Applications_and_Software#readme) | 18%|
-|4.0 | [Incident Response](https://github.com/erich-tech/ITF_Plus/tree/main/Domain_4-Software_Development#readme) | 12%|
-|5.0 | [Tools and Code Analysis](https://github.com/erich-tech/ITF_Plus/tree/main/Domain_5-Database_Fundamentals#readme) | 11%|
-|6.0 | [Tools and Code Analysis](https://github.com/erich-tech/ITF_Plus/tree/main/Domain_6-Security#readme) | 20%|
+|2.0 | [Infrastructure](https://github.com/erich-tech/ITF_Plus/tree/main/Domain_2-Infrastructure#readme) | 22%|
+|3.0 | [Applications and Software](https://github.com/erich-tech/ITF_Plus/tree/main/Domain_3-Applications_and_Software#readme) | 18%|
+|4.0 | [Software Development](https://github.com/erich-tech/ITF_Plus/tree/main/Domain_4-Software_Development#readme) | 12%|
+|5.0 | [Database Fundamentals](https://github.com/erich-tech/ITF_Plus/tree/main/Domain_5-Database_Fundamentals#readme) | 11%|
+|6.0 | [Security](https://github.com/erich-tech/ITF_Plus/tree/main/Domain_6-Security#readme) | 20%|
 | | | 100%|

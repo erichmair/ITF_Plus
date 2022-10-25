@@ -12,7 +12,7 @@
 
 
 ```
-NOTE: Work in progress. Please come back again soon! 
+NOTE: Currently in development. Please check back soon! 
 ```
 ## 1.1 Compare and contrast notational systems
 * Binary - 

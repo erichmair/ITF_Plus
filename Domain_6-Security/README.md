@@ -2,7 +2,7 @@
 
 | # | Subdomains   | 
 |---|---|
-|6.1 | [Explain database concepts and the purpose of a database.](https://github.com/erich-tech/ITF_Plus/blob/main/Domain_6-Security#61-summarize-confidentiality-integrity-and-availability-concerns) |
+|6.1 | [Explain database concepts and the purpose of a database.](https://github.com/erich-tech/ITF_Plus/tree/main/Domain_6-Security#61-summarize-confidentiality-integrity-and-availability-concerns) |
 |6.2 | [Explain methods to secure devices and best practices.](https://github.com/erich-tech/ITF_Plus/blob/main/Domain_6-Security#62-explain-methods-to-secure-devices-and-best-practices) |
 |6.3 | [Summarize behavioral security concepts.](https://github.com/erich-tech/ITF_Plus/blob/main/Domain_6-Security#63-summarize-behavioral-security-concepts) |
 |6.4 | [Compare and contrast authentication, authorization, accounting and non-repudiation concepts.](https://github.com/erich-tech/ITF_Plus/blob/main/Domain_6-Security#64-compare-and-contrast-authentication-authorization-accounting-and-non-repudiation-concepts) |

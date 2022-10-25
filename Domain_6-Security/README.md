@@ -12,7 +12,7 @@
 
 
 ```
-NOTE: Work in progress. Please come back again soon! 
+NOTE: Currently in development. Please check back soon! 
 ```
 ## 6.1 Summarize confidentiality, integrity and availability concerns.
 * Confidentiality concerns - 

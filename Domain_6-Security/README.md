@@ -2,13 +2,13 @@
 
 | # | Subdomains   | 
 |---|---|
-|6.1 | [Explain database concepts and the purpose of a database.](https://github.com/erich-tech/ITF_Plus/blob/main/Domain_6-Security/README.md#61-summarize-confidentiality-integrity-and-availability-concerns) |
-|6.2 | [Explain methods to secure devices and best practices.](https://github.com/erich-tech/ITF_Plus/blob/main/Domain_6-Security/README.md#62-explain-methods-to-secure-devices-and-best-practices) |
-|6.3 | [Summarize behavioral security concepts.](https://github.com/erich-tech/ITF_Plus/blob/main/Domain_6-Security/README.md#63-summarize-behavioral-security-concepts) |
-|6.4 | [Compare and contrast authentication, authorization, accounting and non-repudiation concepts.](https://github.com/erich-tech/ITF_Plus/blob/main/Domain_6-Security/README.md#64-compare-and-contrast-authentication-authorization-accounting-and-non-repudiation-concepts) |
-|6.5 | [Explain password best practices.](https://github.com/erich-tech/ITF_Plus/blob/main/Domain_6-Security/README.md#65-explain-password-best-practices) |
-|6.6 | [Explain common uses of encryption.](https://github.com/erich-tech/ITF_Plus/blob/main/Domain_6-Security/README.md#66-examine-common-uses-of-encryption) |
-|6.7 | [Explain business continuity concepts.](https://github.com/erich-tech/ITF_Plus/blob/main/Domain_6-Security/README.md#67-explain-business-continuity-concepts) |
+|6.1 | [Explain database concepts and the purpose of a database.](https://github.com/erich-tech/ITF_Plus/blob/main/Domain_6-Security#61-summarize-confidentiality-integrity-and-availability-concerns) |
+|6.2 | [Explain methods to secure devices and best practices.](https://github.com/erich-tech/ITF_Plus/blob/main/Domain_6-Security#62-explain-methods-to-secure-devices-and-best-practices) |
+|6.3 | [Summarize behavioral security concepts.](https://github.com/erich-tech/ITF_Plus/blob/main/Domain_6-Security#63-summarize-behavioral-security-concepts) |
+|6.4 | [Compare and contrast authentication, authorization, accounting and non-repudiation concepts.](https://github.com/erich-tech/ITF_Plus/blob/main/Domain_6-Security#64-compare-and-contrast-authentication-authorization-accounting-and-non-repudiation-concepts) |
+|6.5 | [Explain password best practices.](https://github.com/erich-tech/ITF_Plus/blob/main/Domain_6-Security#65-explain-password-best-practices) |
+|6.6 | [Explain common uses of encryption.](https://github.com/erich-tech/ITF_Plus/blob/main/Domain_6-Security#66-examine-common-uses-of-encryption) |
+|6.7 | [Explain business continuity concepts.](https://github.com/erich-tech/ITF_Plus/blob/main/Domain_6-Security#67-explain-business-continuity-concepts) |
 
 
 ```

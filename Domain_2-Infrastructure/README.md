@@ -13,7 +13,7 @@
 
 
 ```
-NOTE: Work in progress. Please come back again soon! 
+NOTE: Currently in development. Please check back soon! 
 ```
 ## 2.1 Classify common types of input/output device interfaces
 * Wired - 

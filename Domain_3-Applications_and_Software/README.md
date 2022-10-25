@@ -12,7 +12,7 @@
 
 
 ```
-NOTE: Work in progress. Please come back again soon! 
+NOTE: Currently in development. Please check back soon! 
 ```
 ## 3.1 Explain the purpose of operating systems
 * Interface between applications and hardware - 

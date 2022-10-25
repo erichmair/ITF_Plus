@@ -7,7 +7,7 @@
 |4.3 | [Explain the purpose and use of programming concepts.](https://github.com/erich-tech/ITF_Plus/tree/main/Domain_4-Software_Development#43-explain-the-purpose-and-use-of-programming-concepts) |
 
 ```
-NOTE: Work in progress. Please come back again soon! 
+NOTE: Currently in development. Please check back soon! 
 ```
 ## 4.1 Compare and contrast programming language categories
 * Interpreted - 

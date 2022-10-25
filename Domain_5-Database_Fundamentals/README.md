@@ -9,7 +9,7 @@
 
 
 ```
-NOTE: Work in progress. Please come back again soon! 
+NOTE: Currently in development. Please check back soon! 
 ```
 ## 5.1 Explain database concepts and the purpose of a database
 * Usage of database - 
